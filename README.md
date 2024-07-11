@@ -2,6 +2,7 @@
 <p>Tujuan dari analisis ini adalah mengetahui pola perjalanan, preferensi, dan perilaku wisatawan berdasarkan data perjalanan. Hasilnya diharapkan dapat memberikan wawasan yang berguna untuk perusahaan travel, agen perjalanan, dan penyedia layanan pariwisata dalam mengembangkan strategi pemasaran, penawaran paket perjalanan, dan layanan pelanggan yang lebih baik </p>
 
 <p>Kesimpulan: 
+
 Destinasi Populer dan Preferensi Wisatawan:
 * Paris menjadi destinasi populer dengan jumlah kunjungan tertinggi
 * Jenis akomodasi paling populer adalah hotel yang menunjukkan kenyamanan dan fasilitas premium
